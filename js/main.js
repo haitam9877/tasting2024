@@ -1328,6 +1328,7 @@ function navgtor(){
     navgtor()
     .then(()=>{
 
+  
         
     })
     .catch((erore) =>{
