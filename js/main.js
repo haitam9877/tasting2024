@@ -1328,7 +1328,7 @@ function navgtor(){
     navgtor()
     .then(()=>{
 
-        window.
+        
     })
     .catch((erore) =>{
 
